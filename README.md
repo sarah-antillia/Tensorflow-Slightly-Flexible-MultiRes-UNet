@@ -113,7 +113,7 @@ class TensorflowMultiResUNet(TensorflowUNet):
   def __init__(self, config_file):
     super().__init__(config_file)
 
-  # The following methods have been take from the following code.
+  # The following methods have been taken from the following code.
   # https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/multiresunet.py
   def conv_block(self, x, num_filters, kernel_size, padding="same", act=True):
     x = Conv2D(num_filters, kernel_size, padding=padding, use_bias=False)(x)
