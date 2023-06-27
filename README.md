@@ -19,6 +19,10 @@ See also:
 2. U-Net: Convolutional Networks for Biomedical Image Segmentation
  https://arxiv.org/pdf/1505.04597.pdf
 </pre>
+<pre>
+3.MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation
+ https://www.sciencedirect.com/science/article/abs/pii/S0893608019302503
+</pre>
 
 </p>
 The image dataset used here has been taken from the following web site.
@@ -286,37 +290,43 @@ the input images and the inferred output images.<br><br>
 <h3>
 References
 </h3>
+<pre>
+<b>1.MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation</b><br>
+Nabil Ibtehaz, M. Sohel Rahman<br>
+<pre>
+ https://www.sciencedirect.com/science/article/abs/pii/S0893608019302503
+</pre>
 
-<b>1. Semantic-Segmentation-Architecture</b><br>
+<b>2. Semantic-Segmentation-Architecture</b><br>
 <pre>
  https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/multiresunet.py
 </pre>
 
-<b>2. Breast Ultrasound Images Dataset</b><br>
+<b>3. Breast Ultrasound Images Dataset</b><br>
 <pre>
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 </pre>
 
-<b>3. Breast lesion detection using an anchor-free network from ultrasound images with segmentation-based enhancement</b><br>
+<b>4. Breast lesion detection using an anchor-free network from ultrasound images with segmentation-based enhancement</b><br>
 Yu Wang & Yudong Yao<br>
 <pre>
 https://www.nature.com/articles/s41598-022-18747-y
 </pre>
 
-<b>4. Classification of Breast Cancer Ultrasound Images with Deep Learning-Based Models </b><br>
+<b>5. Classification of Breast Cancer Ultrasound Images with Deep Learning-Based Models </b><br>
 Fatih Uysa,and Mehmet Murat Köse<br>
 <pre>
 https://www.mdpi.com/2673-4591/31/1/8/html
 </pre>
 
-<b>5. A CNN Deep Learning Technique for Prediction of Breast Cancer using Ultrasound Image
+<b>6. A CNN Deep Learning Technique for Prediction of Breast Cancer using Ultrasound Image
 </b><br>
 Atisham Khan and Silky Pareyani<br>
 <pre>
 https://www.jetir.org/papers/JETIR2303813.pdf
 </pre>
 
-<b>6. Discrimination of Breast Cancer Based on Ultrasound Images and Convolutional Neural Network
+<b>7. Discrimination of Breast Cancer Based on Ultrasound Images and Convolutional Neural Network
 </b><br>
 Rui Du,Yanwei Chen,Tao Li, Liang Shi,Zhengdong Fei,and Yuefeng Li
 <br>
@@ -324,7 +334,7 @@ Rui Du,Yanwei Chen,Tao Li, Liang Shi,Zhengdong Fei,and Yuefeng Li
 https://www.hindawi.com/journals/jo/2022/7733583/
 </pre>
 
-<b>7. EfficientDet-Augmented-Breast-Ultrasound-Images
+<b>8. EfficientDet-Augmented-Breast-Ultrasound-Images
 </b><br>
 Toshiyuki Arai @antillia.com
 <br>
@@ -332,7 +342,7 @@ Toshiyuki Arai @antillia.com
 https://github.com/sarah-antillia/EfficientDet-Augmented-Breast-Ultrasound-Images
 </pre>
 
-<b>8.Image-Segmentation-Breast-Cancer</b><br>
+<b>9.Image-Segmentation-Breast-Cancer</b><br>
 </b><br>
 Toshiyuki Arai @antillia.com
 <br>
@@ -340,7 +350,7 @@ Toshiyuki Arai @antillia.com
 https://github.com/atlan-antillia/Image-Segmentation-Breast-Cancer
 </pre>
 
-<b>9. Semantic-Segmentation-Loss-Functions (SemSegLoss)</b><br>
+<b>10. Semantic-Segmentation-Loss-Functions (SemSegLoss)</b><br>
 <pre>
 https://github.com/shruti-jadon/Semantic-Segmentation-Loss-Functions
 </pre>
